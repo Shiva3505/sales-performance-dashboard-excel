@@ -79,7 +79,7 @@ Shows Total Sales achieved by selected Sales Executives.
 
 Visualization:
 - Horizontal Bar Chart
-<img width="1847" height="673" alt="image" src="https://github.com/user-attachments/assets/a6e719b6-3dd0-4068-9e4f-ed3614cf2bf7" />
+<img width="1647" height="646" alt="{D4DC58EF-8FE1-4A54-B495-D3409851AC1D}" src="https://github.com/user-attachments/assets/4f4e0b66-8f38-48e1-97a8-00988068e50b" />
 
 ---
 
@@ -88,7 +88,7 @@ Displays another group of Sales Executives and Total Sales.
 
 Visualization:
 - Table View
-<img width="1673" height="685" alt="{E9094EAE-7438-425D-BACE-8965DC4B1B52}" src="https://github.com/user-attachments/assets/0ee7f061-c9c3-4bd4-8634-29673aad14ac" />
+<img width="1633" height="655" alt="{34BA6E0E-07AA-46D0-8EBD-9C750F6EA59A}" src="https://github.com/user-attachments/assets/d83699a0-24c4-43be-82e9-936f88789a4c" />
 
 ---
 
@@ -97,7 +97,7 @@ Displays Target Hit Percentage.
 
 Visualization:
 - Pie Chart
-<img width="1702" height="662" alt="{D7781163-4979-4E93-82F0-32D673016D2C}" src="https://github.com/user-attachments/assets/56e72703-b626-447e-960f-d85266924e84" />
+<img width="1625" height="647" alt="{46D08318-B4DA-47E1-A6D2-B41D862F636C}" src="https://github.com/user-attachments/assets/47fed1b1-2b84-40e5-acc7-3da7a570a878" />
 
 ---
 
@@ -106,7 +106,7 @@ Displays Away From Target Percentage.
 
 Visualization:
 - Line Chart
-<img width="1774" height="673" alt="{B5C77C97-CEFC-47E8-93C5-862D70D3E93F}" src="https://github.com/user-attachments/assets/d97c5def-aebb-45f0-ba4d-e9e8fe48299b" />
+<img width="1634" height="657" alt="{10910770-0EBD-45AD-8A11-47DA5B349030}" src="https://github.com/user-attachments/assets/a2ce7936-6203-4fa7-b3f3-a07a3224f185" />
 
 ---
 
