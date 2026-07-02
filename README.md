@@ -179,17 +179,6 @@ The dashboard helps answer questions like:
 
 ---
 
-# Future Improvements
-
-- Monthly Sales Analysis
-- Profit Analysis
-- Customer Segmentation
-- Product Category Analysis
-- Power Query Integration
-- Power Pivot Data Model
-- Power BI Version
-
----
 
 # Author
 
